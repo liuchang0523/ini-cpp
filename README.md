@@ -6,6 +6,7 @@
   
 Yet another `.ini` parser for modern c++ (made for cpp17), inspired and extend from [inih](https://github.com/benhoyt/inih).
 
+20200724 : 解决windows系统中文乱码问题。
 
 ## Example
 
